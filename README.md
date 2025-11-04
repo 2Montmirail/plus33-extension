@@ -1,3 +1,8 @@
+![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue)
+![Status](https://img.shields.io/badge/status-stable-success)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green)
+![GitHub Release](https://img.shields.io/github/v/release/2Montmirail/plus33-extension)
+
 # +33# Chrome Extension
 
 A simple Chrome extension to quickly format French phone numbers into multiple formats:
