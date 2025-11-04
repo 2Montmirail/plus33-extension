@@ -37,7 +37,3 @@ If it helps others, happy to share it.
 
 This project is released under **The Unlicense**  
 The code is **public domain** — you are free to do absolutely anything with it.
-
-## Screenshot
-
-*(Add a screenshot here if you want)*
